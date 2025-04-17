@@ -1,6 +1,6 @@
 # portfolio.github.io
 
-##Education
+## Education
 
 - University 1
 
@@ -8,7 +8,7 @@
 
 ## Experience
 
--details
+- details
 
 ## Projects
 
